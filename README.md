@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pete-caylent
 - 👀 I’m interested in Infra as Code, Networking, Containers, K8s, all things security.
-- 🌱 I’m currently learning Python, Go, JQuery, and Javascript
+- 🌱 I’m currently learning Python, Go, JQuery, and TypeScript.
 - 💞️ I’m looking to collaborate on all the things.
 - 📫 How to reach me: GitHub, KeyBase.
 
